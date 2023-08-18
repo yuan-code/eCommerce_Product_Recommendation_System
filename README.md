@@ -6,7 +6,6 @@ A well developed recommendation system will help businesses improve their shoppe
 The goal of the recommendation system is to predict which products will be in a customer's next order based on previous orders and trending items. The dataset is anonymized and contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.
 
 ### Part 1:
-* Analyzed a large-scale online grocery shopping dataset to gain insights and develop a recommendation system for predicting customer's next order.
 * Conducted exploratory data analysis (EDA) to identify key features and ensure data quality, applying feature engineering techniques to derive meanful features.
 
 ### Part 2:
